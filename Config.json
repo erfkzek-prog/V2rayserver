@@ -1,0 +1,17 @@
+{
+  "inbounds": [{
+    "port": 8080,
+    "protocol": "vmess",
+    "settings": {
+      "clients": [
+        {
+          "id": "تغییر-اینو-با-uuid-جدید",
+          "alterId": 0
+        }
+      ]
+    }
+  }],
+  "outbounds": [{
+    "protocol": "freedom"
+  }]
+}
